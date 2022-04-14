@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunjansoral
 - 👀 I’m interested in css, JavaScript, ES6 React, Web Audio API
 - 🌱 I’m currently learning React, Web Audio API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making an online Digital Audio Workstation
 - 📫 How to reach me ...
 
 <!---
