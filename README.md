@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gunjansoral
-- 👀 I’m interested in css, JavaScript, ES6 React, Web Audio API
-- 🌱 I’m currently learning React, Web Audio API
+- 👋 Hi, I’m @gunjansoral, a javascript full stack developer with MERN stack
+- 👀 I’m comfortable writing code in html, css, javascript, react, node, express, mongo db, and java
+- 🌱 I’m currently learning spring and spring boot
 - 💞️ I’m looking to collaborate on making an online Digital Audio Workstation
 - 📫 How to reach me ...
 
