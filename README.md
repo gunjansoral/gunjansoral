@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @gunjansoral, a javascript full stack developer with MERN stack
-- 👀 I’m comfortable writing code in html, css, javascript, react, node, express, mongo db, and java
-- 🌱 I’m currently learning spring and spring boot
-- 💞️ I’m looking to collaborate on making an online Digital Audio Workstation
-- 📫 How to reach me ...
+Experienced Full Stack Developer with 2+ years of expertise in MERN stack and Java programming. Accomplished Audio Engineer and Music Producer with more than 8 years of experience in Rock/Metal and Bollywood Music Production. A creative problem solver and strategic thinker, adept at combining technical skills with business strategies. Eager to pioneer the creation of an Online Digital Audio Workstation while continuously pursuing knowledge and growth to excel in various domains.
 
 <!---
 gunjansoral/gunjansoral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
